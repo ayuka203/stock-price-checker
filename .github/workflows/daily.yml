@@ -1,0 +1,44 @@
+name: daily
+
+on:
+  schedule:
+    # 平日 07:30 JST（日米両市場の終値が揃う時刻）
+    - cron: "30 22 * * 0-4"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch prices
+        run: python src/fetch.py
+
+      - name: Screen
+        run: python src/screen.py
+
+      - name: Report
+        run: python src/report.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ reports/
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: update stock-watch data ($(date -u +%Y-%m-%d))"
+            git push
+          fi

@@ -1,0 +1,50 @@
+# Layer 2: スクリーニング母集団（watchlist.yaml と同一スキーマ）
+# watchlist.yaml と同じ symbol が含まれてもよい
+# （レポートでは watchlist 側を優先表示し、universe 側では表示しない）
+themes:
+  - name: 原子力燃料・関連素材
+    tickers:
+      - symbol: UEC
+        label: Uranium Energy Corp
+      - symbol: UUUU
+        label: Energy Fuels
+      - symbol: DNN
+        label: Denison Mines
+      - symbol: NXE
+        label: NexGen Energy
+      - symbol: URA
+        label: Global X Uranium ETF
+      - symbol: BWXT
+        label: BWX Technologies
+  - name: 次世代炉・発電関連
+    tickers:
+      - symbol: CEG
+        label: Constellation Energy
+      - symbol: VST
+        label: Vistra
+      - symbol: TLN
+        label: Talen Energy
+      - symbol: GEV
+        label: GE Vernova
+      - symbol: NNE
+        label: Nano Nuclear Energy
+  - name: 日本の電力・重工
+    tickers:
+      - symbol: 9502.T
+        label: 中部電力
+      - symbol: 9531.T
+        label: 東京ガス
+      - symbol: 6501.T
+        label: 日立製作所
+      - symbol: 6503.T
+        label: 三菱電機
+      - symbol: 7012.T
+        label: 川崎重工業
+  - name: 送配電・計測
+    tickers:
+      - symbol: 5801.T
+        label: 古河電気工業
+      - symbol: 6508.T
+        label: 明電舎
+      - symbol: 6622.T
+        label: ダイヘン

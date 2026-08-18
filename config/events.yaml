@@ -1,0 +1,6 @@
+# イベントカレンダー（任意、Phase 3）
+# report.py は実行日から14日以内のイベントのみをレポートに列挙する
+events:
+  - date: 2026-09-15
+    title: NRC 公開会合（Part 53）
+    related: [OKLO, LEU]
