@@ -1,0 +1,73 @@
+{
+  "5801.T": {
+    "high_low": "high"
+  },
+  "6501.T": {
+    "high_low": "low"
+  },
+  "7011.T": {
+    "high_low": "high"
+  },
+  "7012.T": {
+    "high_low": "high"
+  },
+  "9501.T": {
+    "high_low": "high"
+  },
+  "9502.T": {
+    "high_low": "high"
+  },
+  "9531.T": {
+    "high_low": "high"
+  },
+  "BWXT": {
+    "high_low": "low"
+  },
+  "CCJ": {
+    "high_low": "low"
+  },
+  "CEG": {
+    "high_low": "low"
+  },
+  "DNN": {
+    "high_low": "low"
+  },
+  "GEV": {
+    "daily_move": -0.06901758174525023,
+    "high_low": "low"
+  },
+  "LEU": {
+    "high_low": "low"
+  },
+  "NNE": {
+    "daily_move": -0.06840225330018046,
+    "high_low": "low"
+  },
+  "NXE": {
+    "high_low": "low"
+  },
+  "OKLO": {
+    "daily_move": -0.057429361814550946,
+    "high_low": "low"
+  },
+  "SMR": {
+    "daily_move": -0.059847580214754184,
+    "high_low": "low"
+  },
+  "TLN": {
+    "daily_move": -0.10999666112467514,
+    "high_low": "low"
+  },
+  "UEC": {
+    "high_low": "low"
+  },
+  "URA": {
+    "high_low": "low"
+  },
+  "UUUU": {
+    "high_low": "low"
+  },
+  "VST": {
+    "high_low": "low"
+  }
+}
