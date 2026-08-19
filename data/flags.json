@@ -1,73 +1,59 @@
 {
   "5801.T": {
-    "high_low": "high"
+    "daily_move": -0.13690476190476192,
+    "weekly_move": -0.10705826622453814,
+    "high_low": "low"
+  },
+  "5802.T": {
+    "daily_move": -0.08658813804505062,
+    "high_low": "low"
   },
   "6501.T": {
+    "daily_move": -0.0524120420747189,
+    "high_low": "low"
+  },
+  "6503.T": {
+    "daily_move": -0.06466589288675179,
+    "high_low": "low"
+  },
+  "6508.T": {
+    "daily_move": -0.07673469387755102,
+    "high_low": "low"
+  },
+  "6622.T": {
+    "daily_move": -0.07249466950959488,
     "high_low": "low"
   },
   "7011.T": {
-    "high_low": "high"
+    "daily_move": -0.062471395881006864
   },
   "7012.T": {
-    "high_low": "high"
+    "daily_move": -0.06451048951048952,
+    "high_low": "low"
   },
   "9501.T": {
-    "high_low": "high"
+    "high_low": "low"
   },
-  "9502.T": {
-    "high_low": "high"
-  },
-  "9531.T": {
-    "high_low": "high"
+  "9503.T": {
+    "high_low": "low"
   },
   "BWXT": {
     "high_low": "low"
   },
-  "CCJ": {
-    "high_low": "low"
-  },
-  "CEG": {
-    "high_low": "low"
-  },
-  "DNN": {
-    "high_low": "low"
-  },
   "GEV": {
-    "daily_move": -0.06901758174525023,
-    "high_low": "low"
-  },
-  "LEU": {
-    "high_low": "low"
-  },
-  "NNE": {
-    "daily_move": -0.06840225330018046,
-    "high_low": "low"
-  },
-  "NXE": {
-    "high_low": "low"
-  },
-  "OKLO": {
-    "daily_move": -0.057429361814550946,
     "high_low": "low"
   },
   "SMR": {
-    "daily_move": -0.059847580214754184,
-    "high_low": "low"
+    "daily_move": 0.07523143434046414
   },
   "TLN": {
-    "daily_move": -0.10999666112467514,
-    "high_low": "low"
+    "weekly_move": -0.1170186549528389
   },
   "UEC": {
-    "high_low": "low"
-  },
-  "URA": {
-    "high_low": "low"
+    "daily_move": 0.061131393609668586,
+    "high_low": "high"
   },
   "UUUU": {
-    "high_low": "low"
-  },
-  "VST": {
-    "high_low": "low"
+    "daily_move": 0.0539389794642584
   }
 }
