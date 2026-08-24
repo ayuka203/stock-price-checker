@@ -1,69 +1,51 @@
 {
-  "5802.T": {
+  "5801.T": {
+    "daily_move": -0.05055002619172341,
+    "weekly_move": -0.15658445788738948,
     "high_low": "low"
   },
-  "6501.T": {
+  "5802.T": {
+    "weekly_move": -0.13000404367165386,
     "high_low": "low"
   },
   "6503.T": {
     "high_low": "low"
   },
   "6622.T": {
-    "high_low": "low"
-  },
-  "7011.T": {
+    "weekly_move": -0.11966987620357634,
     "high_low": "low"
   },
   "7012.T": {
     "high_low": "low"
   },
-  "9501.T": {
-    "high_low": "high"
-  },
-  "9502.T": {
-    "high_low": "high"
-  },
-  "9503.T": {
-    "high_low": "high"
-  },
   "9531.T": {
     "high_low": "high"
   },
-  "CCJ": {
-    "daily_move": 0.07239257310858212,
-    "high_low": "high"
+  "BWXT": {
+    "weekly_move": -0.12836650271369665,
+    "high_low": "low"
   },
   "DNN": {
-    "daily_move": 0.1146496442893627,
+    "weekly_move": 0.10971783647475342,
     "high_low": "high"
   },
   "GEV": {
-    "weekly_move": -0.10007056140518457,
+    "weekly_move": -0.12687676034667517,
     "high_low": "low"
   },
-  "LEU": {
-    "daily_move": 0.05751427549646292
-  },
   "NXE": {
-    "daily_move": 0.06262224784016568,
     "high_low": "high"
   },
+  "OKLO": {
+    "daily_move": -0.05702070603892224,
+    "high_low": "low"
+  },
   "TLN": {
-    "weekly_move": -0.1330980870019377,
+    "weekly_move": -0.1439678578742095,
     "high_low": "low"
   },
   "UEC": {
-    "daily_move": 0.14439467851423865,
-    "weekly_move": 0.1382694188635418,
-    "high_low": "high"
-  },
-  "URA": {
-    "daily_move": 0.05086677770243325,
-    "high_low": "high"
-  },
-  "UUUU": {
-    "daily_move": 0.0892086876851003,
-    "high_low": "high"
+    "weekly_move": 0.1199642026352147
   },
   "VST": {
     "high_low": "low"
