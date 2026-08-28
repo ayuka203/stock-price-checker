@@ -1,17 +1,35 @@
 {
-  "CCJ": {
+  "9503.T": {
     "high_low": "high"
   },
-  "DNN": {
-    "weekly_move": 0.12732921807073613
+  "9531.T": {
+    "high_low": "high"
   },
-  "OKLO": {
-    "daily_move": -0.060311767698984456
+  "CCJ": {
+    "weekly_move": 0.11235491060382921
+  },
+  "DNN": {
+    "weekly_move": 0.16878979416656575
+  },
+  "LEU": {
+    "weekly_move": 0.10588765899877813,
+    "high_low": "high"
   },
   "SMR": {
-    "daily_move": -0.0550458653164998
+    "daily_move": 0.050701110048043785
+  },
+  "TLN": {
+    "high_low": "low"
   },
   "UEC": {
-    "weekly_move": 0.12897678290969722
+    "weekly_move": 0.22152469520482274,
+    "high_low": "high"
+  },
+  "URA": {
+    "weekly_move": 0.10333026376664982,
+    "high_low": "high"
+  },
+  "UUUU": {
+    "weekly_move": 0.13237411532982793
   }
 }
