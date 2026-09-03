@@ -1,21 +1,16 @@
 {
+  "5802.T": {
+    "high_low": "low"
+  },
   "6503.T": {
     "high_low": "low"
   },
   "6508.T": {
-    "high_low": "low"
-  },
-  "6622.T": {
-    "high_low": "low"
-  },
-  "7011.T": {
-    "high_low": "low"
-  },
-  "7012.T": {
+    "weekly_move": -0.10953177257525083,
     "high_low": "low"
   },
   "9503.T": {
-    "weekly_move": 0.13072647115200306
+    "weekly_move": 0.13051823416506717
   },
   "BWXT": {
     "daily_move": 0.0607393814944917
