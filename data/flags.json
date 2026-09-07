@@ -1,18 +1,12 @@
 {
   "5801.T": {
-    "weekly_move": -0.11640988016629983,
-    "high_low": "low"
+    "daily_move": 0.06393578743426516
   },
-  "5802.T": {
-    "high_low": "low"
-  },
-  "6508.T": {
-    "weekly_move": -0.11956521739130435,
+  "6503.T": {
     "high_low": "low"
   },
   "9503.T": {
-    "weekly_move": 0.1616122840690979,
-    "high_low": "high"
+    "weekly_move": 0.12803827751196173
   },
   "CCJ": {
     "weekly_move": -0.10227275795930753
@@ -20,10 +14,7 @@
   "CEG": {
     "high_low": "high"
   },
-  "DNN": {
-    "weekly_move": -0.11294767848618525
-  },
-  "UEC": {
-    "weekly_move": -0.11500382450271841
+  "VST": {
+    "high_low": "high"
   }
 }
