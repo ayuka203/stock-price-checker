@@ -1,11 +1,29 @@
 {
-  "9502.T": {
-    "high_low": "high"
+  "6501.T": {
+    "high_low": "low"
+  },
+  "7012.T": {
+    "high_low": "low"
   },
   "CEG": {
     "high_low": "high"
   },
+  "LEU": {
+    "daily_move": 0.06693886612516349
+  },
+  "NNE": {
+    "daily_move": 0.09198651982377906
+  },
+  "SMR": {
+    "daily_move": 0.15257737371262567,
+    "weekly_move": 0.20604096581381234,
+    "high_low": "high"
+  },
+  "TLN": {
+    "weekly_move": 0.10146733248970434
+  },
   "VST": {
+    "weekly_move": 0.10446244895964313,
     "high_low": "high"
   }
 }
