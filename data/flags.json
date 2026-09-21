@@ -1,51 +1,25 @@
 {
-  "BWXT": {
-    "high_low": "low"
-  },
   "CCJ": {
-    "high_low": "low"
+    "volume_spike": 3.1977887370851295
   },
   "CEG": {
-    "weekly_move": -0.11695956224893385,
-    "high_low": "low"
-  },
-  "DNN": {
-    "weekly_move": -0.15820895118738862,
-    "high_low": "low"
-  },
-  "LEU": {
-    "weekly_move": -0.2340625362311103,
+    "weekly_move": -0.10549602558782376,
     "high_low": "low"
   },
   "NNE": {
-    "weekly_move": -0.1392404910483206,
-    "high_low": "low"
+    "daily_move": -0.07307011321693749
   },
   "NXE": {
-    "weekly_move": -0.11842107032191616,
-    "high_low": "low"
-  },
-  "OKLO": {
-    "weekly_move": -0.1632605311901013,
     "high_low": "low"
   },
   "SMR": {
-    "weekly_move": -0.23219242659112085,
+    "daily_move": -0.08517693665249974,
     "high_low": "low"
-  },
-  "TLN": {
-    "weekly_move": -0.10032222597403118
   },
   "UEC": {
-    "weekly_move": -0.13103451791189397,
-    "high_low": "low"
-  },
-  "URA": {
-    "weekly_move": -0.11715752468970377,
     "high_low": "low"
   },
   "UUUU": {
-    "weekly_move": -0.1938144750193373,
     "high_low": "low"
   }
 }
