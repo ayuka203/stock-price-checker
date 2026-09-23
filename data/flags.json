@@ -1,25 +1,18 @@
 {
-  "CCJ": {
-    "volume_spike": 3.1977887370851295
-  },
-  "CEG": {
-    "weekly_move": -0.10549602558782376,
-    "high_low": "low"
+  "LEU": {
+    "daily_move": 0.0662398310196492
   },
   "NNE": {
-    "daily_move": -0.07307011321693749
+    "daily_move": 0.08709477934534167
   },
-  "NXE": {
-    "high_low": "low"
+  "OKLO": {
+    "daily_move": 0.05736842908357319,
+    "weekly_move": 0.10963825796962022
   },
   "SMR": {
-    "daily_move": -0.08517693665249974,
-    "high_low": "low"
-  },
-  "UEC": {
-    "high_low": "low"
+    "daily_move": 0.06287780838043278
   },
   "UUUU": {
-    "high_low": "low"
+    "daily_move": 0.05128208472230837
   }
 }
