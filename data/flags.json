@@ -1,15 +1,11 @@
 {
-  "5802.T": {
-    "daily_move": 0.06753184330689738,
-    "weekly_move": 0.10635118306351184
+  "BWXT": {
+    "high_low": "low"
   },
-  "LEU": {
-    "daily_move": 0.0662398310196492
+  "CCJ": {
+    "high_low": "low"
   },
-  "NNE": {
-    "daily_move": 0.08709477934534167
-  },
-  "OKLO": {
-    "weekly_move": 0.12423572200038147
+  "UUUU": {
+    "high_low": "low"
   }
 }
