@@ -2,32 +2,27 @@
   "9502.T": {
     "high_low": "low"
   },
-  "BWXT": {
-    "high_low": "low"
-  },
   "CCJ": {
     "high_low": "low"
   },
   "DNN": {
-    "weekly_move": -0.10726649479080173,
-    "high_low": "low"
+    "weekly_move": -0.11604100506529617
   },
-  "NXE": {
+  "LEU": {
+    "weekly_move": -0.12450110199141552,
     "high_low": "low"
   },
   "SMR": {
-    "daily_move": -0.06057009789319527,
-    "weekly_move": -0.10011377909669573,
+    "weekly_move": -0.12710911932524915,
     "high_low": "low"
   },
   "UEC": {
-    "high_low": "low"
+    "weekly_move": -0.10067763499846286
   },
   "URA": {
     "high_low": "low"
   },
   "UUUU": {
-    "weekly_move": -0.10325206813576446,
     "high_low": "low"
   }
 }
