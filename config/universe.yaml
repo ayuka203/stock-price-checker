@@ -1,50 +1,73 @@
 # Layer 2: スクリーニング母集団（watchlist.yaml と同一スキーマ）
 # watchlist.yaml と同じ symbol が含まれてもよい
 # （レポートでは watchlist 側を優先表示し、universe 側では表示しない）
+# keywords: grid-news 側でニュース見出しとの照合に使う語
 themes:
   - name: 原子力燃料・関連素材
     tickers:
       - symbol: UEC
         label: Uranium Energy Corp
+        keywords: [Uranium Energy]
       - symbol: UUUU
         label: Energy Fuels
+        keywords: [Energy Fuels]
       - symbol: DNN
         label: Denison Mines
+        keywords: [Denison]
       - symbol: NXE
         label: NexGen Energy
+        keywords: [NexGen]
       - symbol: URA
         label: Global X Uranium ETF
+        keywords: [uranium, ウラン]
       - symbol: BWXT
         label: BWX Technologies
+        keywords: [BWX]
   - name: 次世代炉・発電関連
     tickers:
       - symbol: CEG
         label: Constellation Energy
+        keywords: [Constellation]
       - symbol: VST
         label: Vistra
+        keywords: [Vistra]
       - symbol: TLN
         label: Talen Energy
+        keywords: [Talen]
       - symbol: GEV
         label: GE Vernova
+        keywords: [GE Vernova]
       - symbol: NNE
         label: Nano Nuclear Energy
+        keywords: [Nano Nuclear]
   - name: 日本の電力・重工
     tickers:
       - symbol: 9502.T
         label: 中部電力
+        keywords: [中部電力, 浜岡]
       - symbol: 9531.T
         label: 東京ガス
+        keywords: [東京ガス]
       - symbol: 6501.T
         label: 日立製作所
+        keywords: [日立]
       - symbol: 6503.T
         label: 三菱電機
+        keywords: [三菱電機]
       - symbol: 7012.T
         label: 川崎重工業
+        keywords: [川崎重工, 川重]
   - name: 送配電・計測
     tickers:
       - symbol: 5801.T
         label: 古河電気工業
+        keywords: [古河電工, 古河電気工業]
       - symbol: 6508.T
         label: 明電舎
+        keywords: [明電舎]
       - symbol: 6622.T
         label: ダイヘン
+        keywords: [ダイヘン]
+      - symbol: 5803.T
+        label: フジクラ
+        keywords: [フジクラ]

@@ -1,23 +1,32 @@
 # Layer 1: 固定ウォッチ銘柄
 # テーマ名・銘柄はここで自由に編集してよい（コード側にはハードコードしない）
+# keywords: grid-news 側でニュース見出しとの照合に使う語
 themes:
   - name: 原子力・放射線規制
     tickers:
       - symbol: 7011.T
         label: 三菱重工
+        keywords: [三菱重工, MHI]
       - symbol: OKLO
         label: Oklo
+        keywords: [Oklo]
       - symbol: LEU
         label: Centrus Energy
+        keywords: [Centrus]
       - symbol: SMR
         label: NuScale Power
+        keywords: [NuScale]
       - symbol: CCJ
         label: Cameco
+        keywords: [Cameco, カメコ]
   - name: 送配電・系統運用
     tickers:
       - symbol: 5802.T
         label: 住友電工
+        keywords: [住友電工, 住友電気工業]
       - symbol: 9501.T
         label: 東京電力HD
+        keywords: [東京電力, 東電, TEPCO, 柏崎刈羽]
       - symbol: 9503.T
         label: 関西電力
+        keywords: [関西電力, 美浜]

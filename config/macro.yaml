@@ -1,0 +1,15 @@
+# マクロ指標（fetch.py が株価と同じ処理で取得し prices テーブルに保存する）
+# 判定（movers・フラグ）の対象外。レポートの macro 欄にのみ出す
+macro:
+  - symbol: CL=F
+    label: WTI原油
+  - symbol: NG=F
+    label: 米天然ガス（Henry Hub）
+  - symbol: JPY=X
+    label: ドル円
+  - symbol: ^N225
+    label: 日経平均
+  - symbol: ^GSPC
+    label: S&P500
+  - symbol: SRUUF
+    label: ウラン現物（Sprott信託）

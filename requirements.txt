@@ -1,2 +1,2 @@
-yfinance
-pyyaml
+yfinance>=1.7,<2
+pyyaml>=6,<7
