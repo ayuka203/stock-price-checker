@@ -1,0 +1,517 @@
+{
+  "schema_version": 1,
+  "report_date": "2026-10-15",
+  "edition": "daily",
+  "asof": {
+    "JP": "2026-10-15",
+    "US": "2026-10-14",
+    "JP_stale": false,
+    "US_stale": false
+  },
+  "headline": "次世代炉・発電関連が上昇（平均+1.0%）、送配電・計測は下落（平均-7.5%）",
+  "themes": [
+    {
+      "name": "原子力・放射線規制",
+      "layer": "watchlist",
+      "daily_pct": -0.0493,
+      "weekly_pct": -0.13969,
+      "n": 5
+    },
+    {
+      "name": "送配電・系統運用",
+      "layer": "watchlist",
+      "daily_pct": -0.03186,
+      "weekly_pct": -0.04094,
+      "n": 3
+    },
+    {
+      "name": "原子力燃料・関連素材",
+      "layer": "universe",
+      "daily_pct": -0.05545,
+      "weekly_pct": -0.13203,
+      "n": 6
+    },
+    {
+      "name": "次世代炉・発電関連",
+      "layer": "universe",
+      "daily_pct": 0.01018,
+      "weekly_pct": -0.02676,
+      "n": 5
+    },
+    {
+      "name": "日本の電力・重工",
+      "layer": "universe",
+      "daily_pct": -0.02364,
+      "weekly_pct": -0.031,
+      "n": 5
+    },
+    {
+      "name": "送配電・計測",
+      "layer": "universe",
+      "daily_pct": -0.07517,
+      "weekly_pct": -0.12137,
+      "n": 4
+    }
+  ],
+  "movers": [
+    {
+      "symbol": "UUUU",
+      "label": "Energy Fuels",
+      "theme": "原子力燃料・関連素材",
+      "close": 8.34,
+      "daily_pct": -0.10032,
+      "weekly_pct": -0.18713,
+      "z": -2.4,
+      "flags": [],
+      "keywords": [
+        "Energy Fuels"
+      ]
+    },
+    {
+      "symbol": "LEU",
+      "label": "Centrus Energy",
+      "theme": "原子力・放射線規制",
+      "close": 119.95,
+      "daily_pct": -0.10672,
+      "weekly_pct": -0.18479,
+      "z": -2.25,
+      "flags": [],
+      "keywords": [
+        "Centrus"
+      ]
+    },
+    {
+      "symbol": "CCJ",
+      "label": "Cameco",
+      "theme": "原子力・放射線規制",
+      "close": 81.47,
+      "daily_pct": -0.05432,
+      "weekly_pct": -0.08533,
+      "z": -2.03,
+      "flags": [],
+      "keywords": [
+        "Cameco",
+        "カメコ"
+      ]
+    }
+  ],
+  "macro": [
+    {
+      "symbol": "CL=F",
+      "label": "WTI原油",
+      "close": 94.66,
+      "daily_pct": 0.00552,
+      "weekly_pct": 0.03465,
+      "asof": "2026-10-14"
+    },
+    {
+      "symbol": "NG=F",
+      "label": "米天然ガス（Henry Hub）",
+      "close": 3.283,
+      "daily_pct": 0.0,
+      "weekly_pct": 0.0363,
+      "asof": "2026-10-14"
+    },
+    {
+      "symbol": "JPY=X",
+      "label": "ドル円",
+      "close": 157.878,
+      "daily_pct": -0.0028,
+      "weekly_pct": -0.00115,
+      "asof": "2026-10-15"
+    },
+    {
+      "symbol": "^N225",
+      "label": "日経平均",
+      "close": 65564.1719,
+      "daily_pct": -0.03218,
+      "weekly_pct": -0.06385,
+      "asof": "2026-10-15"
+    },
+    {
+      "symbol": "^GSPC",
+      "label": "S&P500",
+      "close": 7718.9399,
+      "daily_pct": -0.01108,
+      "weekly_pct": -0.01062,
+      "asof": "2026-10-14"
+    },
+    {
+      "symbol": "SRUUF",
+      "label": "ウラン現物（Sprott信託）",
+      "close": 18.22,
+      "daily_pct": -0.0199,
+      "weekly_pct": -0.06034,
+      "asof": "2026-10-14"
+    }
+  ],
+  "tickers": [
+    {
+      "symbol": "7011.T",
+      "label": "三菱重工",
+      "theme": "原子力・放射線規制",
+      "layer": "watchlist",
+      "close": 3575.0,
+      "daily_pct": -0.04078,
+      "weekly_pct": -0.06193,
+      "z": -1.78,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "OKLO",
+      "label": "Oklo",
+      "theme": "原子力・放射線規制",
+      "layer": "watchlist",
+      "close": 31.78,
+      "daily_pct": -0.01335,
+      "weekly_pct": -0.17562,
+      "z": -0.25,
+      "flags": [],
+      "asof": "2026-10-13",
+      "stale": true
+    },
+    {
+      "symbol": "LEU",
+      "label": "Centrus Energy",
+      "theme": "原子力・放射線規制",
+      "layer": "watchlist",
+      "close": 119.95,
+      "daily_pct": -0.10672,
+      "weekly_pct": -0.18479,
+      "z": -2.25,
+      "flags": [],
+      "asof": "2026-10-14",
+      "stale": false
+    },
+    {
+      "symbol": "SMR",
+      "label": "NuScale Power",
+      "theme": "原子力・放射線規制",
+      "layer": "watchlist",
+      "close": 6.49,
+      "daily_pct": -0.03134,
+      "weekly_pct": -0.19077,
+      "z": -0.56,
+      "flags": [],
+      "asof": "2026-10-13",
+      "stale": true
+    },
+    {
+      "symbol": "CCJ",
+      "label": "Cameco",
+      "theme": "原子力・放射線規制",
+      "layer": "watchlist",
+      "close": 81.47,
+      "daily_pct": -0.05432,
+      "weekly_pct": -0.08533,
+      "z": -2.03,
+      "flags": [],
+      "asof": "2026-10-14",
+      "stale": false
+    },
+    {
+      "symbol": "5802.T",
+      "label": "住友電工",
+      "theme": "送配電・系統運用",
+      "layer": "watchlist",
+      "close": 2163.0,
+      "daily_pct": -0.06687,
+      "weekly_pct": -0.12853,
+      "z": -1.72,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "9501.T",
+      "label": "東京電力HD",
+      "theme": "送配電・系統運用",
+      "layer": "watchlist",
+      "close": 506.8,
+      "daily_pct": -0.02087,
+      "weekly_pct": -0.01954,
+      "z": -0.9,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "9503.T",
+      "label": "関西電力",
+      "theme": "送配電・系統運用",
+      "layer": "watchlist",
+      "close": 2722.5,
+      "daily_pct": -0.00784,
+      "weekly_pct": 0.02523,
+      "z": -0.34,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "UEC",
+      "label": "Uranium Energy Corp",
+      "theme": "原子力燃料・関連素材",
+      "layer": "universe",
+      "close": 7.7,
+      "daily_pct": -0.06553,
+      "weekly_pct": -0.18691,
+      "z": -1.62,
+      "flags": [],
+      "asof": "2026-10-14",
+      "stale": false
+    },
+    {
+      "symbol": "UUUU",
+      "label": "Energy Fuels",
+      "theme": "原子力燃料・関連素材",
+      "layer": "universe",
+      "close": 8.34,
+      "daily_pct": -0.10032,
+      "weekly_pct": -0.18713,
+      "z": -2.4,
+      "flags": [],
+      "asof": "2026-10-14",
+      "stale": false
+    },
+    {
+      "symbol": "DNN",
+      "label": "Denison Mines",
+      "theme": "原子力燃料・関連素材",
+      "layer": "universe",
+      "close": 2.16,
+      "daily_pct": -0.07296,
+      "weekly_pct": -0.15625,
+      "z": -1.94,
+      "flags": [
+        "52w_low"
+      ],
+      "asof": "2026-10-14",
+      "stale": false
+    },
+    {
+      "symbol": "NXE",
+      "label": "NexGen Energy",
+      "theme": "原子力燃料・関連素材",
+      "layer": "universe",
+      "close": 8.47,
+      "daily_pct": -0.01282,
+      "weekly_pct": -0.1018,
+      "z": -0.44,
+      "flags": [],
+      "asof": "2026-10-13",
+      "stale": true
+    },
+    {
+      "symbol": "URA",
+      "label": "Global X Uranium ETF",
+      "theme": "原子力燃料・関連素材",
+      "layer": "universe",
+      "close": 35.54,
+      "daily_pct": -0.04922,
+      "weekly_pct": -0.10994,
+      "z": -1.76,
+      "flags": [],
+      "asof": "2026-10-14",
+      "stale": false
+    },
+    {
+      "symbol": "BWXT",
+      "label": "BWX Technologies",
+      "theme": "原子力燃料・関連素材",
+      "layer": "universe",
+      "close": 134.44,
+      "daily_pct": -0.03183,
+      "weekly_pct": -0.05016,
+      "z": -1.25,
+      "flags": [],
+      "asof": "2026-10-14",
+      "stale": false
+    },
+    {
+      "symbol": "CEG",
+      "label": "Constellation Energy",
+      "theme": "次世代炉・発電関連",
+      "layer": "universe",
+      "close": 295.79,
+      "daily_pct": 0.00646,
+      "weekly_pct": -0.01535,
+      "z": 0.22,
+      "flags": [],
+      "asof": "2026-10-13",
+      "stale": true
+    },
+    {
+      "symbol": "VST",
+      "label": "Vistra",
+      "theme": "次世代炉・発電関連",
+      "layer": "universe",
+      "close": 162.36,
+      "daily_pct": 0.02675,
+      "weekly_pct": 0.01159,
+      "z": 0.89,
+      "flags": [],
+      "asof": "2026-10-13",
+      "stale": true
+    },
+    {
+      "symbol": "TLN",
+      "label": "Talen Energy",
+      "theme": "次世代炉・発電関連",
+      "layer": "universe",
+      "close": 382.14,
+      "daily_pct": 0.00624,
+      "weekly_pct": 0.0242,
+      "z": 0.18,
+      "flags": [],
+      "asof": "2026-10-13",
+      "stale": true
+    },
+    {
+      "symbol": "GEV",
+      "label": "GE Vernova",
+      "theme": "次世代炉・発電関連",
+      "layer": "universe",
+      "close": 1004.04,
+      "daily_pct": 0.00726,
+      "weekly_pct": -0.02446,
+      "z": 0.24,
+      "flags": [],
+      "asof": "2026-10-13",
+      "stale": true
+    },
+    {
+      "symbol": "NNE",
+      "label": "Nano Nuclear Energy",
+      "theme": "次世代炉・発電関連",
+      "layer": "universe",
+      "close": 14.35,
+      "daily_pct": 0.0042,
+      "weekly_pct": -0.12978,
+      "z": 0.08,
+      "flags": [],
+      "asof": "2026-10-13",
+      "stale": true
+    },
+    {
+      "symbol": "9502.T",
+      "label": "中部電力",
+      "theme": "日本の電力・重工",
+      "layer": "universe",
+      "close": 2628.0,
+      "daily_pct": -0.01573,
+      "weekly_pct": -0.01794,
+      "z": -0.73,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "9531.T",
+      "label": "東京ガス",
+      "theme": "日本の電力・重工",
+      "layer": "universe",
+      "close": 6072.0,
+      "daily_pct": 0.00297,
+      "weekly_pct": 0.0053,
+      "z": 0.24,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "6501.T",
+      "label": "日立製作所",
+      "theme": "日本の電力・重工",
+      "layer": "universe",
+      "close": 5671.0,
+      "daily_pct": -0.02376,
+      "weekly_pct": 0.00389,
+      "z": -1.3,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "6503.T",
+      "label": "三菱電機",
+      "theme": "日本の電力・重工",
+      "layer": "universe",
+      "close": 4981.0,
+      "daily_pct": -0.03916,
+      "weekly_pct": -0.05752,
+      "z": -1.36,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "7012.T",
+      "label": "川崎重工業",
+      "theme": "日本の電力・重工",
+      "layer": "universe",
+      "close": 2162.0,
+      "daily_pct": -0.04252,
+      "weekly_pct": -0.08872,
+      "z": -2.0,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "5801.T",
+      "label": "古河電気工業",
+      "theme": "送配電・計測",
+      "layer": "universe",
+      "close": 3548.0,
+      "daily_pct": -0.08674,
+      "weekly_pct": -0.20162,
+      "z": -1.6,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "6508.T",
+      "label": "明電舎",
+      "theme": "送配電・計測",
+      "layer": "universe",
+      "close": 11830.0,
+      "daily_pct": -0.0498,
+      "weekly_pct": -0.03977,
+      "z": -1.31,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "6622.T",
+      "label": "ダイヘン",
+      "theme": "送配電・計測",
+      "layer": "universe",
+      "close": 2744.0,
+      "daily_pct": -0.07203,
+      "weekly_pct": -0.07235,
+      "z": -1.76,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    },
+    {
+      "symbol": "5803.T",
+      "label": "フジクラ",
+      "theme": "送配電・計測",
+      "layer": "universe",
+      "close": 4721.0,
+      "daily_pct": -0.09212,
+      "weekly_pct": -0.17175,
+      "z": -1.8,
+      "flags": [],
+      "asof": "2026-10-15",
+      "stale": false
+    }
+  ],
+  "fetch_failures": []
+}
